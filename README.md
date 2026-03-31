@@ -111,7 +111,6 @@ Experienced software developer with a focus on frontend and backend technologies
 ## Personal Projects
 
 - **OverlayOn**: Real-time streaming tools for streamers to create professional content. (100,000 registered users).
-- **OBS Football**: Real-time streaming tool for streamers to create professional sports overlaysfor Satoshi.
 - **Clonara/SplitPass/Money**: Privacy-focused mobile apps for Satoshi.
 
 ---
